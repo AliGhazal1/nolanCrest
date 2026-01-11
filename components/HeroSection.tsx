@@ -25,7 +25,7 @@ export default function HeroSection() {
       {/* Content */}
       <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="inline-block bg-gold/90 text-navy px-6 py-2 rounded-full font-semibold text-sm mb-6 animate-fade-in">
-          Now Listed at $670,000
+          Now Listed at $675,000
         </div>
         
         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">

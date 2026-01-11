@@ -59,7 +59,7 @@ export default function Footer() {
             <ul className="space-y-3 text-white/70">
               <li>Calgary, Alberta</li>
               <li>Nolan Hill Community</li>
-              <li className="text-gold font-semibold text-lg">Listed at $670,000</li>
+              <li className="text-gold font-semibold text-lg">Listed at $675,000</li>
               <li className="pt-2">
                 <span className="text-white font-semibold">3 Bed</span> | 
                 <span className="text-white font-semibold"> 2.5 Bath</span> | 

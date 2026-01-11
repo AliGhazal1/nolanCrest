@@ -5,7 +5,7 @@ A premium, conversion-optimized property website for a family home listing in Ca
 ## 🏡 Property Details
 
 - **Address**: 144 Nolancrest Circle NW, Calgary, AB
-- **Price**: $670,000
+- **Price**: $675,000
 - **Bedrooms**: 3
 - **Bathrooms**: 2.5
 - **Square Footage**: 2,000+ sq. ft.
